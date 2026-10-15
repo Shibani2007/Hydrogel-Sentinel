@@ -1,0 +1,6 @@
+household_id,panchayat,indicator,value,value_per_100
+H001,Northpanchayat,rainwatersystems,12.00,0.1200
+H002,Northpanchayat,mangrovehectares,0.50,0.0050
+H003,Southpanchayat,coldstoragetons,2.00,0.0200
+H004,Eastpanchayat,trainingplaced,1.00,0.0100
+H006,Westpanchayat,rainwatersystems,8.00,0.0800

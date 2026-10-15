@@ -1,0 +1,7 @@
+﻿household_id,panchayat,indicator,value
+H001,Northpanchayat,RainwaterSystems,12
+H002,Northpanchayat,MangroveHectares,0.5
+H003,Southpanchayat,ColdStorageTons,2
+H004,Eastpanchayat,TrainingPlaced,1
+H005,Eastpanchayat,TrainingPlaced,
+H006,Westpanchayat,RainwaterSystems,8
